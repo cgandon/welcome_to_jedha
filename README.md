@@ -8,7 +8,7 @@ Ce code crée une page web de bienvenue aux cours Jedha
 *texte en italique*
 
 
-du codes:
+du code:
 
 ```Python
 var = [1,2,3]
